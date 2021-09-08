@@ -5,7 +5,7 @@ Shape Matching of Real 3D Object Data to Synthetic 3D CADs (3DV project @ ETHZ)
 
 **Supervisor:** Dr. Iro Armeni, Shengyu Huang
 
-[**report**](https://github.com/Real2CAD/Real2CAD-3DV/blob/main/doc/3DV_report_Real2CAD.pdf) [**presentation**](https://github.com/Real2CAD/Real2CAD-3DV/blob/main/doc/3DV_Final_Pre_Real2CAD.pdf) [**demo**]
+[**report**](https://github.com/Real2CAD/Real2CAD-3DV/blob/main/doc/3DV_report_Real2CAD.pdf) |  [**presentation**](https://github.com/Real2CAD/Real2CAD-3DV/blob/main/doc/3DV_Final_Pre_Real2CAD.pdf) | [**demo**]()
 
 ----
 
